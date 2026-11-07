@@ -1,0 +1,17 @@
+{
+  "name": "考研刷题（338生物化学 / 821食品工艺学）",
+  "short_name": "考研刷题",
+  "description": "个人自用离线刷题工具，记录保存在本机",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f4f6fa",
+  "theme_color": "#2563eb",
+  "lang": "zh-CN",
+  "icons": [
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-180.png", "sizes": "180x180", "type": "image/png", "purpose": "any" },
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}

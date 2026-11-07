@@ -1,0 +1,638 @@
+[
+  {
+    "id": "BC-SHXT-TK-2-2",
+    "chapter": "338生物化学｜1. 蛋白质化学",
+    "outlineId": "338-1.1.1",
+    "type": "fill",
+    "stem": "蛋白质中存在　　　　种氨基酸，除了　　　　氨基酸外，其余氨基酸的α-碳原子上都有一个自由的　　　　基及一个自由的　　　　基。",
+    "options": [],
+    "answer": [
+      "20",
+      "脯",
+      "羧",
+      "氨"
+    ],
+    "explanation": "",
+    "source": "考研资料\\石大\\生化习题.doc 第9页 第248段",
+    "year": "",
+    "isPastExam": false,
+    "tags": [
+      "338生物化学",
+      "填空题"
+    ],
+    "images": [],
+    "answerText": "答案：蛋白质中存在 20 种氨基酸，除了 脯 氨基酸外，其余氨基酸的α-碳原子上都有一个自由的 羧 基及一个自由的 氨 基。",
+    "note": "",
+    "dupSources": []
+  },
+  {
+    "id": "BC-SHXT-TK-2-3",
+    "chapter": "338生物化学｜1. 蛋白质化学",
+    "outlineId": "338-1.1.1",
+    "type": "fill",
+    "stem": "能形成二硫键的氨基酸是　　　　，分子量最小的氨基酸是　　　　。",
+    "options": [],
+    "answer": [
+      "半胱氨酸",
+      "甘氨酸"
+    ],
+    "explanation": "",
+    "source": "考研资料\\石大\\生化习题.doc 第9页 第249段",
+    "year": "",
+    "isPastExam": false,
+    "tags": [
+      "338生物化学",
+      "填空题"
+    ],
+    "images": [],
+    "answerText": "答案：能形成二硫键的氨基酸是 半胱氨酸 ，分子量最小的氨基酸是 甘氨酸 。",
+    "note": "",
+    "dupSources": []
+  },
+  {
+    "id": "BC-SHXT-TK-2-6",
+    "chapter": "338生物化学｜1. 蛋白质化学",
+    "outlineId": "338-1.1.1",
+    "type": "fill",
+    "stem": "在蛋白质分子中，一个氨基酸的α碳原子上的　　　　与另一个氨基酸α碳原子上的　　　　脱去一分子水形成的键叫　　　　，它是蛋白质分子中的基本结构键。",
+    "options": [],
+    "answer": [
+      "氨基",
+      "羧基",
+      "肽键"
+    ],
+    "explanation": "",
+    "source": "考研资料\\石大\\生化习题.doc 第9页 第252段",
+    "year": "",
+    "isPastExam": false,
+    "tags": [
+      "338生物化学",
+      "填空题"
+    ],
+    "images": [],
+    "answerText": "答案：在蛋白质分子中，一个氨基酸的α碳原子上的 氨基 与另一个氨基酸α碳原子上的 羧基 脱去一分子水形成的键叫 肽键 ，它是蛋白质分子中的基本结构键。",
+    "note": "",
+    "dupSources": []
+  },
+  {
+    "id": "BC-SHXT-XZ-2-7",
+    "chapter": "338生物化学｜1. 蛋白质化学",
+    "outlineId": "338-1.1.1",
+    "type": "single",
+    "stem": "必需氨基酸是对（　　　　）而言的。",
+    "options": [
+      {
+        "key": "A",
+        "text": "植物"
+      },
+      {
+        "key": "B",
+        "text": "动物"
+      },
+      {
+        "key": "C",
+        "text": "动物和植物"
+      },
+      {
+        "key": "D",
+        "text": "人和动物"
+      }
+    ],
+    "answer": "D",
+    "explanation": "",
+    "source": "考研资料\\石大\\生化习题.doc 第10页 第281段",
+    "year": "",
+    "isPastExam": false,
+    "tags": [
+      "338生物化学",
+      "选择题"
+    ],
+    "images": [],
+    "answerText": "答案：D",
+    "note": "",
+    "dupSources": [
+      "石大/生化习题.pdf 第10页（同内容另一版本）",
+      "石大/生化习题_20230911200413.pdf 第10页（同内容另一版本）"
+    ]
+  },
+  {
+    "id": "BC-SHXT-XZ-2-8",
+    "chapter": "338生物化学｜1. 蛋白质化学",
+    "outlineId": "338-1.1.1",
+    "type": "single",
+    "stem": "在下列所有氨基酸溶液中，不引起偏振光旋转的氨基酸是（　　　　）",
+    "options": [
+      {
+        "key": "A",
+        "text": "丙氨酸"
+      },
+      {
+        "key": "B",
+        "text": "亮氨酸"
+      },
+      {
+        "key": "C",
+        "text": "甘氨酸"
+      },
+      {
+        "key": "D",
+        "text": "丝氨酸"
+      }
+    ],
+    "answer": "C",
+    "explanation": "",
+    "source": "考研资料\\石大\\生化习题.doc 第10页 第283段",
+    "year": "",
+    "isPastExam": false,
+    "tags": [
+      "338生物化学",
+      "选择题"
+    ],
+    "images": [],
+    "answerText": "答案：C",
+    "note": "",
+    "dupSources": [
+      "石大/生化习题.pdf 第10页（同内容另一版本）",
+      "石大/生化习题_20230911200413.pdf 第10页（同内容另一版本）"
+    ]
+  },
+  {
+    "id": "BC-SHXT-XZ-2-9",
+    "chapter": "338生物化学｜1. 蛋白质化学",
+    "outlineId": "338-1.1.1",
+    "type": "single",
+    "stem": "天然蛋白质中含有的20种氨基酸的结构（　　　　）",
+    "options": [
+      {
+        "key": "A",
+        "text": "全部是L－型"
+      },
+      {
+        "key": "B",
+        "text": "全部是D型"
+      },
+      {
+        "key": "C",
+        "text": "部分是L－型，部分是D－型"
+      },
+      {
+        "key": "D",
+        "text": "除甘氨酸外都是L－型"
+      }
+    ],
+    "answer": "D",
+    "explanation": "",
+    "source": "考研资料\\石大\\生化习题.doc 第10页 第285段",
+    "year": "",
+    "isPastExam": false,
+    "tags": [
+      "338生物化学",
+      "选择题"
+    ],
+    "images": [],
+    "answerText": "答案：D",
+    "note": "",
+    "dupSources": [
+      "石大/生化习题.pdf 第10页（同内容另一版本）",
+      "石大/生化习题_20230911200413.pdf 第10页（同内容另一版本）"
+    ]
+  },
+  {
+    "id": "BC-SHXT-XZ-2-11",
+    "chapter": "338生物化学｜1. 蛋白质化学",
+    "outlineId": "338-1.1.1",
+    "type": "single",
+    "stem": "在生理pH情况下，下列氨基酸中哪个带净负电荷？（　　　　）",
+    "options": [
+      {
+        "key": "A",
+        "text": "Pro"
+      },
+      {
+        "key": "B",
+        "text": "Lys"
+      },
+      {
+        "key": "C",
+        "text": "His"
+      },
+      {
+        "key": "D",
+        "text": "Glu"
+      }
+    ],
+    "answer": "D",
+    "explanation": "",
+    "source": "考研资料\\石大\\生化习题.doc 第10页 第290段",
+    "year": "",
+    "isPastExam": false,
+    "tags": [
+      "338生物化学",
+      "选择题"
+    ],
+    "images": [],
+    "answerText": "答案：D",
+    "note": "",
+    "dupSources": [
+      "石大/生化习题.pdf 第10页（同内容另一版本）",
+      "石大/生化习题_20230911200413.pdf 第10页（同内容另一版本）"
+    ]
+  },
+  {
+    "id": "BC-SHXT-XZ-2-12",
+    "chapter": "338生物化学｜1. 蛋白质化学",
+    "outlineId": "338-1.1.1",
+    "type": "single",
+    "stem": "天然蛋白质中不存在的氨基酸是（　　　　）",
+    "options": [
+      {
+        "key": "A",
+        "text": "半胱氨酸"
+      },
+      {
+        "key": "B",
+        "text": "瓜氨酸"
+      },
+      {
+        "key": "C",
+        "text": "丝氨酸"
+      },
+      {
+        "key": "D",
+        "text": "蛋氨酸"
+      }
+    ],
+    "answer": "B",
+    "explanation": "",
+    "source": "考研资料\\石大\\生化习题.doc 第10页 第292段",
+    "year": "",
+    "isPastExam": false,
+    "tags": [
+      "338生物化学",
+      "选择题"
+    ],
+    "images": [],
+    "answerText": "答案：B",
+    "note": "",
+    "dupSources": [
+      "石大/生化习题.pdf 第10页（同内容另一版本）",
+      "石大/生化习题_20230911200413.pdf 第10页（同内容另一版本）"
+    ]
+  },
+  {
+    "id": "BC-SHXT-XZ-2-13",
+    "chapter": "338生物化学｜1. 蛋白质化学",
+    "outlineId": "338-1.1.1",
+    "type": "single",
+    "stem": "破坏α－螺旋结构的氨基酸残基之一是：（　　　　）",
+    "options": [
+      {
+        "key": "A",
+        "text": "亮氨酸"
+      },
+      {
+        "key": "B",
+        "text": "丙氨酸"
+      },
+      {
+        "key": "C",
+        "text": "脯氨酸"
+      },
+      {
+        "key": "D",
+        "text": "谷氨酸"
+      }
+    ],
+    "answer": "C",
+    "explanation": "",
+    "source": "考研资料\\石大\\生化习题.doc 第10页 第294段",
+    "year": "",
+    "isPastExam": false,
+    "tags": [
+      "338生物化学",
+      "选择题"
+    ],
+    "images": [],
+    "answerText": "答案：C",
+    "note": "",
+    "dupSources": [
+      "石大/生化习题.pdf 第10页（同内容另一版本）",
+      "石大/生化习题_20230911200413.pdf 第10页（同内容另一版本）"
+    ]
+  },
+  {
+    "id": "BC-SHXT-XZ-2-17",
+    "chapter": "338生物化学｜1. 蛋白质化学",
+    "outlineId": "338-1.1.1",
+    "type": "single",
+    "stem": "与茚三酮反应不呈兰紫色的氨基酸是(　　　　)",
+    "options": [
+      {
+        "key": "A",
+        "text": "Phe"
+      },
+      {
+        "key": "B",
+        "text": "Pro"
+      },
+      {
+        "key": "C",
+        "text": "Glu"
+      },
+      {
+        "key": "D",
+        "text": "Met"
+      }
+    ],
+    "answer": "B",
+    "explanation": "",
+    "source": "考研资料\\石大\\生化习题.doc 第10页 第302段",
+    "year": "",
+    "isPastExam": false,
+    "tags": [
+      "338生物化学",
+      "选择题"
+    ],
+    "images": [],
+    "answerText": "答案：B",
+    "note": "",
+    "dupSources": [
+      "石大/生化习题.pdf 第10页（同内容另一版本）",
+      "石大/生化习题_20230911200413.pdf 第10页（同内容另一版本）"
+    ]
+  },
+  {
+    "id": "BC-SHXT-XZ-2-18",
+    "chapter": "338生物化学｜1. 蛋白质化学",
+    "outlineId": "338-1.1.1",
+    "type": "single",
+    "stem": "下面几种氨基酸中除哪一种外其溶液均能引起偏振光旋转(　　　　)",
+    "options": [
+      {
+        "key": "A",
+        "text": "丙氨酸"
+      },
+      {
+        "key": "B",
+        "text": "甘氨酸"
+      },
+      {
+        "key": "C",
+        "text": "亮氨酸"
+      },
+      {
+        "key": "D",
+        "text": "丝氨酸"
+      }
+    ],
+    "answer": "B",
+    "explanation": "",
+    "source": "考研资料\\石大\\生化习题.doc 第10页 第304段",
+    "year": "",
+    "isPastExam": false,
+    "tags": [
+      "338生物化学",
+      "选择题"
+    ],
+    "images": [],
+    "answerText": "答案：B",
+    "note": "",
+    "dupSources": [
+      "石大/生化习题.pdf 第10页（同内容另一版本）",
+      "石大/生化习题_20230911200413.pdf 第10页（同内容另一版本）"
+    ]
+  },
+  {
+    "id": "BC-SHXT-XZ-2-19",
+    "chapter": "338生物化学｜1. 蛋白质化学",
+    "outlineId": "338-1.1.1",
+    "type": "single",
+    "stem": "在生理pH下，下列哪一种是带正电荷的氨基酸：(　　　　)",
+    "options": [
+      {
+        "key": "A",
+        "text": "谷氨酸"
+      },
+      {
+        "key": "B",
+        "text": "赖氨酸"
+      },
+      {
+        "key": "C",
+        "text": "色氨酸"
+      },
+      {
+        "key": "D",
+        "text": "缬氨酸"
+      }
+    ],
+    "answer": "B",
+    "explanation": "",
+    "source": "考研资料\\石大\\生化习题.doc 第10页 第306段",
+    "year": "",
+    "isPastExam": false,
+    "tags": [
+      "338生物化学",
+      "选择题"
+    ],
+    "images": [],
+    "answerText": "答案：B",
+    "note": "",
+    "dupSources": [
+      "石大/生化习题.pdf 第10页（同内容另一版本）",
+      "石大/生化习题_20230911200413.pdf 第10页（同内容另一版本）"
+    ]
+  },
+  {
+    "id": "BC-SHXT-PD-2-1",
+    "chapter": "338生物化学｜1. 蛋白质化学",
+    "outlineId": "338-1.1.1",
+    "type": "judge",
+    "stem": "一氨基一羧基氨基酸的pI为中性，因为-COOH和-NH+3的解离度相等。（　　　　）",
+    "options": [],
+    "answer": false,
+    "explanation": "",
+    "source": "考研资料\\石大\\生化习题.doc 第10页 第312段",
+    "year": "",
+    "isPastExam": false,
+    "tags": [
+      "338生物化学",
+      "判断题"
+    ],
+    "images": [],
+    "answerText": "答案：×",
+    "note": "",
+    "dupSources": [
+      "石大/生化习题.pdf 第10页（同内容另一版本）",
+      "石大/生化习题_20230911200413.pdf 第10页（同内容另一版本）"
+    ]
+  },
+  {
+    "id": "BC-SHXT-PD-2-3",
+    "chapter": "338生物化学｜1. 蛋白质化学",
+    "outlineId": "338-1.1.1",
+    "type": "judge",
+    "stem": "生物体内只有蛋白质才含有氨基酸。（　　　　）",
+    "options": [],
+    "answer": false,
+    "explanation": "",
+    "source": "考研资料\\石大\\生化习题.doc 第10页 第314段",
+    "year": "",
+    "isPastExam": false,
+    "tags": [
+      "338生物化学",
+      "判断题"
+    ],
+    "images": [],
+    "answerText": "答案：×",
+    "note": "",
+    "dupSources": [
+      "石大/生化习题.pdf 第10页（同内容另一版本）",
+      "石大/生化习题_20230911200413.pdf 第10页（同内容另一版本）"
+    ]
+  },
+  {
+    "id": "BC-SHXT-PD-2-6",
+    "chapter": "338生物化学｜1. 蛋白质化学",
+    "outlineId": "338-1.1.1",
+    "type": "judge",
+    "stem": "蛋白质分子中个别氨基酸的取代未必会引起蛋白质活性的改变。（　　　　）",
+    "options": [],
+    "answer": true,
+    "explanation": "",
+    "source": "考研资料\\石大\\生化习题.doc 第11页 第317段",
+    "year": "",
+    "isPastExam": false,
+    "tags": [
+      "338生物化学",
+      "判断题"
+    ],
+    "images": [],
+    "answerText": "答案：√",
+    "note": "",
+    "dupSources": [
+      "石大/生化习题.pdf 第11页（同内容另一版本）",
+      "石大/生化习题_20230911200413.pdf 第11页（同内容另一版本）"
+    ]
+  },
+  {
+    "id": "BC-SHXT-PD-2-9",
+    "chapter": "338生物化学｜1. 蛋白质化学",
+    "outlineId": "338-1.1.1",
+    "type": "judge",
+    "stem": "在蛋白质和多肽中，只有一种连接氨基酸残基的共价键，即肽键。（　　　　）",
+    "options": [],
+    "answer": false,
+    "explanation": "",
+    "source": "考研资料\\石大\\生化习题.doc 第11页 第320段",
+    "year": "",
+    "isPastExam": false,
+    "tags": [
+      "338生物化学",
+      "判断题"
+    ],
+    "images": [],
+    "answerText": "答案：×",
+    "note": "",
+    "dupSources": [
+      "石大/生化习题.pdf 第11页（同内容另一版本）",
+      "石大/生化习题_20230911200413.pdf 第11页（同内容另一版本）"
+    ]
+  },
+  {
+    "id": "BC-SHXT-PD-2-13",
+    "chapter": "338生物化学｜1. 蛋白质化学",
+    "outlineId": "338-1.1.1",
+    "type": "judge",
+    "stem": "天然氨基酸都有一个不对称α-碳原子。（　　　　）",
+    "options": [],
+    "answer": false,
+    "explanation": "",
+    "source": "考研资料\\石大\\生化习题.doc 第11页 第324段",
+    "year": "",
+    "isPastExam": false,
+    "tags": [
+      "338生物化学",
+      "判断题"
+    ],
+    "images": [],
+    "answerText": "答案：×",
+    "note": "",
+    "dupSources": [
+      "石大/生化习题.pdf 第11页（同内容另一版本）",
+      "石大/生化习题_20230911200413.pdf 第11页（同内容另一版本）"
+    ]
+  },
+  {
+    "id": "BC-SHXT-PD-2-16",
+    "chapter": "338生物化学｜1. 蛋白质化学",
+    "outlineId": "338-1.1.1",
+    "type": "judge",
+    "stem": "当氨基酸处于等电点状态时，由于静电引力的作用，氨基酸的溶解度最小，容易发生沉淀。（　　　　）",
+    "options": [],
+    "answer": true,
+    "explanation": "",
+    "source": "考研资料\\石大\\生化习题.doc 第11页 第327段",
+    "year": "",
+    "isPastExam": false,
+    "tags": [
+      "338生物化学",
+      "判断题"
+    ],
+    "images": [],
+    "answerText": "答案：√",
+    "note": "",
+    "dupSources": [
+      "石大/生化习题.pdf 第11页（同内容另一版本）",
+      "石大/生化习题_20230911200413.pdf 第11页（同内容另一版本）"
+    ]
+  },
+  {
+    "id": "BC-SHXT-PD-2-20",
+    "chapter": "338生物化学｜1. 蛋白质化学",
+    "outlineId": "338-1.1.1",
+    "type": "judge",
+    "stem": "蛋白质的氨基酸残基排列顺序很大程度上决定了它的空间构象。（　　　　）",
+    "options": [],
+    "answer": true,
+    "explanation": "",
+    "source": "考研资料\\石大\\生化习题.doc 第11页 第331段",
+    "year": "",
+    "isPastExam": false,
+    "tags": [
+      "338生物化学",
+      "判断题"
+    ],
+    "images": [],
+    "answerText": "答案：√",
+    "note": "",
+    "dupSources": [
+      "石大/生化习题.pdf 第11页（同内容另一版本）",
+      "石大/生化习题_20230911200413.pdf 第11页（同内容另一版本）"
+    ]
+  },
+  {
+    "id": "BC-SHXT-JD-2-3",
+    "chapter": "338生物化学｜1. 蛋白质化学",
+    "outlineId": "338-1.1.1",
+    "type": "short",
+    "stem": "对蛋白质中自然发生的氨基酸替换的研究有以下结果：",
+    "options": [],
+    "answer": "①Lys→Arg和Ile→Leu这样的替换一般对蛋白质的功能基本无影响。\n②色氨酸的替换最易改变蛋白质的功能。\n试解释此种现象。",
+    "explanation": "",
+    "source": "考研资料\\石大\\生化习题.doc 第11页 第336段",
+    "year": "",
+    "isPastExam": false,
+    "tags": [
+      "338生物化学",
+      "简答/问答题"
+    ],
+    "images": [],
+    "answerText": "答案：①Lys→Arg和Ile→Leu这样的替换一般对蛋白质的功能基本无影响。\n②色氨酸的替换最易改变蛋白质的功能。\n试解释此种现象。",
+    "note": "",
+    "dupSources": [
+      "石大/生化习题.pdf 第11页（同内容另一版本）",
+      "石大/生化习题_20230911200413.pdf 第11页（同内容另一版本）"
+    ]
+  }
+]
